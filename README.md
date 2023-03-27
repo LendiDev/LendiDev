@@ -29,7 +29,3 @@ I'm a passionate web developer on a mission to create amazing digital experience
 - 🏠 My home is my lab, where I explore and try new things in web development.
 
 - 👥 I enjoy spending quality time with friends, sharing stories, and make memories.
-
-### 📫 Get in Touch
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lendiak/)
-- 🌐 [Lendi.dev](https://lendi.dev)
