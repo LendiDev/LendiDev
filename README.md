@@ -17,7 +17,8 @@ I'm a passionate web developer on a mission to create amazing digital experience
 
 
 ### 🌱 Currently Learning
-- 🦾 Golang (creating API that analyses and generates human-readable weather summaries for days, week based on data provided by weather providers)
+- 🦾 Typescript
+- 🔁 Redux Toolkit
 
 ### 💼 My Work
 - Check out my GitHub repositories and my [portfolio website](https://lendi.dev) to explore my projects and coding adventures.
@@ -27,4 +28,4 @@ I'm a passionate web developer on a mission to create amazing digital experience
 
 - 🏠 My home is my lab, where I explore and try new things in web development.
 
-- 👥 I enjoy spending quality time with friends, sharing stories, and make memories.
+- 👥 I enjoy spending quality time with friends, sharing stories, and making memories.
